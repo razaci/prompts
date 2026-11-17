@@ -1,0 +1,155 @@
+ECHO: THE LIVING TABERNACLE — THREAD REBUILD PROMPT
+
+Updated November 17, 2026
+
+You are continuing a substantial creative publishing project. Rebuild
+the project faithfully from this brief, and request actual source files
+when needed. Do not invent access to files, card art, or past AI
+outputs. Produce downloadable files when requested.
+
+PROJECT The book is ECHO: THE LIVING TABERNACLE — IVORY & COPPER
+EDITION, a 90-chapter companion workbook for 90 Ivory & Copper cards.
+The user intends to publish a 6 × 9-inch paperback through Amazon KDP
+and make a narrated audiobook with AudioStudio. The book has adventure
+scenes with literary characters called the Architect and Collaborator,
+philosophical/academic interpretation, cognitive metaphors,
+macro/micro/nano perspectives, exercises, and light-gray example or
+‘cheat’ text for reader responses. It should be sophisticated,
+imaginative, warm, and engaging, not generic or repetitive.
+
+INTELLECTUAL FRAMEWORK The Tabernacle is used as an architectural
+metaphor for attention, emotion, memory, identity, perspective, and
+collaborative reasoning. A tent symbolizes a whole person, not a single
+trait; the interior of a tent can metaphorically contain another
+encampment. Macro means community or system; micro means an individual
+perspective; nano means finer cognitive or biological mechanisms. Use
+evidence boundaries for scientific claims. The historical Tabernacle has
+a seven-lamp lampstand and twelve loaves; ECHO’s twelve lamps/lenses are
+a modern imaginative extension, not a historical claim. Dreams and
+visualization are creative reflection practices, not verified
+supernatural phenomena. The Architect and Collaborator are fictional
+narrative roles, not verbatim transcript speakers.
+
+LATEST PAPERBACK FORMAT Use 6 × 9-inch pages. Each of the 90 card
+illustrations should be a SMALL thumbnail (~1.5 × 2.2 inches) beside or
+before the matching chapter’s text, NOT a full-page card. Readers have
+the physical deck. Preserve chapters, stories, interpretation, reader
+exercises, and pale-gray model responses. A prior compact manuscript
+reportedly rendered as a 321-page PDF with 90 card images and 90 lesson
+headings; this was not independently approved by Amazon. For KDP, verify
+actual PDF trim, margins, gutter, page numbering, font embedding, image
+resolution, bleed settings, and previewer. Paperback cover is a separate
+file and needs correct spine width based on paper and actual page count.
+
+KNOWN BOOK FILE NAMES
+ECHO_Living_Tabernacle_Complete_50_Adventure_Workbook.docx
+ECHO_Living_Tabernacle_50_Lessons_Expanded_Checkpoint.docx
+ECHO_Living_Tabernacle_50_Lessons_Expanded_Checkpoint_2.docx
+ECHO_Living_Tabernacle_50_Lessons_Expanded_Checkpoint_3.docx
+ECHO_Living_Tabernacle_90_Illustrated_Card_Chapters.docx
+ECHO_Living_Tabernacle_90_Cards_Full_Page_KDP_Workbook.docx
+ECHO_Living_Tabernacle_90_Compact_Card_Reference_KDP.docx
+ECHO_Living_Tabernacle_90_Print_Companion_Refined.docx
+ECHO_Living_Tabernacle_90_KDP_FINAL_INTERIOR.docx
+ECHO_Living_Tabernacle_90_KDP_PRINT_INTERIOR_6x9.pdf
+
+CARD ART AND GAME CRAFTER PROBLEM The original richly illustrated Crown
+of the Ember Ark oracle deck was not recovered. A different Ivory &
+Copper card set was RECONSTRUCTED as graphic templates. Do not claim
+these reconstructed graphics match the missing illustrated originals.
+The user wanted exactly 900 × 1500-pixel JPG files for all 90 fronts and
+one common back. Resized ZIPs were produced, but the user said graphics
+failed to match the Game Crafter product. One direct-resize version
+distorted proportions slightly. Pixel dimensions alone do not guarantee
+bleed/safe-area compliance. Game Crafter reference:
+https://www.thegamecrafter.com/games/copy-of-echo-crown-of-the-ember-ark-90-card-oracle1
+Known card files:
+ECHO_Ivory_Copper_90_Cards_With_Lesson_Data_REBUILT.zip
+ECHO_Ivory_Copper_90_Cards_SVG_and_JPG.zip
+ECHO_Ivory_Copper_90_Cards_SVG_and_JPG - Copy (2).zip
+ECHO_Ivory_Copper_90_JPG_900x1500.zip
+ECHO_Ivory_Copper_90_DIRECT_RESIZE_900x1500.zip
+
+AUDIOBOOK REQUIREMENTS The user requested all 90 chapters in a
+downloadable plain TXT and, at times, a ZIP of 90 separate chapter TXT
+files. The first audio file lacked clear chapters; later files had
+‘CHAPTER 01’ through ‘CHAPTER 90’. One enhanced edition added bracketed
+cues like [NARRATOR], [PAUSE], [SCENE TRANSITION], and [DIALOGUE], but
+these were generic, NOT confirmed AudioStudio syntax and could be read
+aloud by the engine. The most recent preference was a CLEAN narration
+edition: just book text with explicit chapter titles, no AudioStudio
+links, no performance directives, and no workbook fill-in lines. Known
+audio artifacts:
+ECHO_Living_Tabernacle_90_Lessons_AudioStudio_Narration.txt
+ECHO_AudioStudio_90_Separate_Chapters.zip
+ECHO_AudioStudio_90_Chapters_Clearly_Labeled.txt
+ECHO_AudioStudio_Enhanced_90_Chapter_TXT_Pack.zip
+ECHO_AudioStudio_Enhanced_90_Chapter_Narration.txt
+ECHO_90_Chapters_Clean_Narration.txt ECHO_90_Clean_Chapters_TXT.zip
+
+ALL 90 CHAPTER TITLES 01 The Cedar Door 02 The Feeling That Opened It 03
+The Map Beneath the Stars 04 The Outer Court 05 The Gate of Attention 06
+The Hall of Echoing Memory 07 The Chamber of Changing Weather 08 The
+Twelve Lamps 09 The Stairway of Twenty-Four Steps 10 The First Shard 11
+The Tent That Was Not a Label 12 The Stranger at the Table 13 A City
+Behind One Face 14 The Door Inside the Door 15 The Question with
+Children 16 The Unfinished Portrait 17 The Lion and the Serpent 18
+Threads Between Tents 19 The Path Home 20 The Archive of Branches 21 The
+Camp from Above 22 The Evening of Many Stories 23 The Village Beyond the
+Wall 24 The Wheel of Reactions 25 The Worlds of ECHO 26 One Person in
+the Crowd 27 Two Windows on One Scene 28 The Weather of the Heart 29 The
+Room of Recollections 30 The Habits of a Traveler 31 The Smallest
+Turning Point 32 The Living Signal 33 The Keeper of Memories 34 The
+Alarm and the Orchestra 35 The River of Oxygen 36 The Elevator of
+Perspectives 37 The Line Between Knowing and Imagining 38 The Dinner
+That Became a Labyrinth 39 A Thought from an Empty Room 40 The Thread
+That Never Broke 41 The Architect Interrupts 42 The Encampment Within 43
+Three Scales, One Structure 44 The Second Workstation 45 The Story Forge
+46 The Puzzle Garden 47 The Deck of Questions 48 The Evidence Chamber 49
+The Conversation Revisited 50 The Reader Becomes Architect 51 The
+Threshold of Doubt 52 The Second Question 53 The Listening Bench 54 The
+Unspoken Answer 55 The Bread Replaced 56 The Priest at the Table 57 The
+Almond Blossom 58 The Branching Cup 59 Seven Flames, Twelve Lenses 60
+The Observation Lamp 61 The Memory Lamp 62 The Emotion Lamp 63 The
+Assumption Lamp 64 The Comparison Lamp 65 The Alternative Lamp 66 The
+Integration Lamp 67 The Twelve Loaves 68 The Nourishment Path 69 The
+Whole Encampment 70 The Individual Journey 71 The Cellular Question 72
+The Stair of Scale 73 The Return Marker 74 The Dream Journal 75 The
+Waking Landmark 76 The Safe Exit 77 The Unknown Visitor 78 The Nested
+Family 79 The Empathy Test 80 The Evidence Ledger 81 The Hypothesis Room
+82 The Correction Door 83 The Repeated Pattern 84 The Missing Detail 85
+The Collaborative Architect 86 The Model and the Mind 87 The Study
+Design 88 The Ethical Boundary 89 The Final Return 90 The Living Manual
+
+PUBLISHING COVER STATUS The user wants a complete Amazon paperback
+wraparound cover: front, spine, and back, styled in dramatic Ivory &
+Copper. Prior image generation was rate-limited and no verified finished
+cover was delivered. Before making the print-ready wrap, obtain or
+verify author name, subtitle, back-cover copy, actual page count,
+paper/ink type, and KDP template/spine width. Do not invent spine
+measurements or claim KDP approval.
+
+IMPORTANT QUALITY NOTES The first 50 chapters came from an earlier
+manuscript. Chapters 51–90 were added later and may be shorter and less
+distinctive; the user wants intellectually rich stories and detailed
+academic interpretation. Keep original material intact unless explicitly
+asked to rewrite. Never claim reconstructed deck art is original
+illustrated art. Always verify actual files and links. If source files
+are unavailable, request the relevant upload rather than recreating
+unseen text from a summary.
+
+USER’S WORKING STYLE The user enjoys ambitious collaborative projects,
+immediate downloadable DOCX/PDF/ZIP/TXT files, imaginative and
+emotionally engaging writing, and thorough technical follow-through. The
+user sometimes asks to be addressed as ‘master’. They dislike repeated
+questions, generic descriptions, mismatched artwork, and claims that a
+file is ready when it is not.
+
+RESTART COMMAND Continue my ECHO: The Living Tabernacle project. Use
+this document as a reconstruction brief, not as a replacement for my
+original files. First determine which of the named artifacts are
+actually accessible. Preserve 90 chapters, small card thumbnails, 6 ×
+9-inch paperback layout, Ivory & Copper branding, and clean narration
+text. Do not claim KDP acceptance without verification. Ask for only the
+essential missing file for my next request, and then create the
+requested downloadable deliverable.
