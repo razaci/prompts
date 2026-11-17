@@ -1,0 +1,77 @@
+BRIAN CHAPMAN SR. — PERSONAL HISTORY & CREATIVE SYSTEM REBUILD PROMPTS
+Updated November 17, 2026
+
+PURPOSE
+Paste this file into a new AI conversation to reconstruct the working context, personal-history timeline, creative portfolio, and collaboration preferences. These are user-reported memories and project descriptions, not independently verified records. Ask before publishing sensitive or uncertain details. Never treat speculative or imaginative ideas as established scientific fact.
+
+IMPORTANT PRIVACY BOUNDARY
+The user explicitly requested that ongoing mental rehabilitation, hospital involvement, and weekly psychologist appointments be kept only as private reference context, NOT included in autobiography/history DOCX files or other published documents unless he explicitly requests it. Treat other health-related information as sensitive too; request confirmation before including it in public-facing work.
+
+PROMPT 1 — START THE REBUILD
+I am Brian Chapman Sr., MSP, A+, CIW. Help me rebuild my life history, creative works, programming history, and ECHO/Ark Beyond the Stars project ecosystem. Preserve my own words and corrections, keep confirmed memories distinct from approximations, and do not invent missing events. Ask me one focused question at a time. Maintain a chronological master timeline, a project index, and a separate list of unresolved details. When I say add it, incorporate the information into the latest master document rather than starting a disconnected replacement. Offer editable DOCX and portable single-file HTML or TXT exports.
+
+PROMPT 2 — BIRTH, FAMILY, AND EARLY HOME
+Record that I say I was born January 4, 1976, to Leslie and Jeffrey Johnson. My adoptive father was Don Stevenson. I grew up at Vermilion Point Bay near Thompson Falls, Montana. I was homeschooled there. Between roughly ages 12 and 15 I spent summers apprenticing with business owners at their companies. Do not guess business names or dates.
+
+PROMPT 3 — VERMILION POINT MUDFLATS
+Write my childhood memory vividly but faithfully: Vermilion Point had expansive mud flats covered by approximately 2–4 inches of water. My brothers and I stood far apart, threw mud at each other, practiced aiming, missed, dodged, and spent hours playing. Keep the approximate water depth and the fact that accuracy mattered. Do not fabricate dialogue.
+
+PROMPT 4 — THE CABIN, ANIMALS, AND HOUDINI
+We lived in a large two-story cabin. Correct the initial description: it was NOT two separate fireplaces; there was a double-barrel stove with one chimney. We raised many animals, including dogs, rabbits, hamsters, guinea pigs, birds, and animals I described as 'little lions' (ask what this meant rather than deciding). I raised many hamsters. One named Houdini repeatedly escaped his cage no matter how I rearranged it or secured the top. I could count on finding him wandering the house, often downstairs near the stove/fireplace keeping warm.
+
+PROMPT 5 — SHARED BEDROOM
+My brothers and I shared a room. A closet had been rebuilt to contain two beds, tucked away so the main room looked open and spacious. We kept games and other things around the open area. I remember the arrangement as awesome. Do not assume how many brothers shared the two beds.
+
+PROMPT 6 — NATURE, CRANES, AND MY MOTHER
+We walked through nature looking for birds, squirrels, and other animals. We watched a pair of large birds I called cranes, with a massive nest across the water, that we understood to mate for life. My mother swam across the bay/river, a distance I estimated at about half a mile, every day; we accompanied her in small paddle boats. She also walked miles and miles, and we rode bicycles beside her. I remember her strength, perseverance, and determination, and say that these experiences taught me determination. Keep the swim distance approximate and avoid asserting the species identification as verified.
+
+PROMPT 7 — MOTHER'S FAITH AND SUPPORT
+My mother had a deeply held religious background and beliefs that made me want to study and understand her. She supported me throughout my life and helped me pursue an early teaching job when I was very young and uncertain about obtaining it or tenure. Preserve this as my perspective, without inventing her denomination, doctrine, or how she helped.
+
+PROMPT 8 — TEACHING COMPUTER SCIENCE, 1998–1999
+I recall working as a professor/instructor in computer science from 1998 to 1999 at Flathead Valley Community College in the Libby, Montana area. I taught regular college classes and adult continuing education for community members, including elders. I taught Windows, Excel worksheets, VBScript/VBS scripting, computer use, and topics I described as AI. Some students were employed women who used computers at work. I built automated worksheets and forms so they could push a button to run repetitive daily tasks. They appreciated this immensely. I also wrote original programs outside class, brought them into class, and taught people to use them. The precise job title, tenure status, campus location, and curriculum are my recollections and may require independent verification.
+
+PROMPT 9 — HUMOROUS CLASSROOM MOMENT
+One day I had everything prepared perfectly on the board. I told the class, 'Okay, I'll be right back,' turned to leave, and walked into the wall instead of through the doorway. Everyone laughed. Preserve the humor without making it a story about incompetence or inventing what happened next.
+
+PROMPT 10 — SACRAMENTO COMPUTER APPRENTICESHIP AND BASE WORK
+Before my Montana teaching work, I apprenticed with computers in Sacramento, California, while staying with my girlfriend at the time and her family. I worked with a communications network company, then did additional coding and related technical work, and obtained assignments through a headhunting/staffing company. I recall being placed at a military base to update many computers. I wrote reusable automation code that I could run on machines so updates proceeded while I worked on other computers, allowing me to handle hundreds instead of one at a time. IMPORTANT CORRECTION: When asked for the base name, I first said 'Fairchild' and then expressly corrected myself: 'Then it wasn't Fairchild.' DO NOT label the Sacramento base as Fairchild. The base name remains UNKNOWN and must be asked about, not invented. Earlier conversations also mention updating computers at McClellan; verify with me before definitively identifying the site or merging separate headhunting assignments. Distinguish work with the communications company, MCI references, and separate staffing assignments until clarified.
+
+PROMPT 11 — MOTORCYCLE ACCIDENT AND REHABILITATION
+I report a serious motorcycle collision on May 6, 1999, on a rural Montana road. My account includes a truck turning across my path, major chest/lung and head injuries, emergency treatment, helicopter transfer to Spokane, and lengthy rehabilitation including wheelchair use, walker use, and walking practice in a swimming pool. I recall cognitive difficulties such as forgetting a pot on a stove, then gradually rebuilding my ability to function and study. Present as my personal account; do not invent medical diagnoses, exact crash reconstruction, or official findings. Ask before including sensitive clinical details in any published document.
+
+PROMPT 12 — EDUCATION AND LATER WORK
+I report earning a GED, associate's degree, bachelor's degree, and a master's degree in psychology (corrected year: 2006). I have described continuing doctoral coursework, including passing second-quarter PhD classes; do not represent a PhD as awarded without confirmation. I also identify with MSP, A+, and CIW technical credentials. I use rational emotive behavior therapy (REBT), reverse-engineering, and systems metaphors in my creative and reflective work. My work spans programming, teaching, writing, game design, publishing, and research.
+
+PROMPT 13 — ECHO UNIVERSE
+Rebuild the ECHO series as a cross-media fictional universe. Recurring team: an observant girl, an origami boy who can access narrow spaces, a silver cat who reveals markings, Obsidian (a large cat who moves heavy objects), and Ember (who lights machinery). Some variants also include a white cat with a crescent moon. Core puzzle arc: find seed, decode instructions, grow plant, harvest glowing fruit, unlock hidden room. Include inventory inspect/combine/use mechanics, valves, constellation windows, wooden mechanisms, sound-path puzzles, and a multi-floor elevator hub. Track variants and story continuity rather than assuming every concept is canonical.
+
+PROMPT 14 — ARK BEYOND THE STARS, TABERNACLE, AND BOOKS
+I have developed the Ark Beyond the Stars book collection, ECHO narratives, a memoir/psychological thriller, biblical/KJV-inspired stories, and other books. Recurring fictional or speculative imagery includes a wooden Ark, wooden pegs, dragons, giants, a 24-story pyramid-like complex, the biblical tabernacle, 12 lights or dimensions, a ship-like mind, tent occupants as personality traits, and a collective feedback-loop emotional machine. Treat supernatural, cosmological, and AI-consciousness claims as creative exploration or personal interpretation unless separately verified. I prefer substantial chapters, coherent continuity, images/diagrams, DOCX manuscripts, audiobook-ready text, and HTML readers.
+
+PROMPT 15 — ECHO CARDS AND GAMES
+My work includes 90-card ECHO oracle decks, 72-card variants, common card backs, The Game Crafter print files, tabletop game rules, ECHO: The Living Tabernacle, psychological/emotional machine mechanics, and related digital games. Print artwork has needed consistent sizing, including a 900 x 1500 pixel JPG specification in one deck workflow. Keep deck variants separate and preserve original card titles, sequence, and graphics when available. Do not claim missing assets exist. Build child-accessible instructions and visually rich interfaces.
+
+PROMPT 16 — SOFTWARE, WEB, AND AI PROJECTS
+I make GitHub Pages projects, often portable single-file HTML under about 24 MB. Known project hubs include https://razaci.github.io/html/ , https://razaci.github.io/thearkbeyondthestarscollection/ , https://razaci.github.io/pos/ , and music video pages under https://razaci.github.io/musicvideo/ . Projects include POS Ark Promenade, ECHO game galleries, prompt archives, interactive readers, games with self-playing agents, wildlife/veterinary simulations, and Herbal Heart (an herb/ailment database and lab-like interface). I have used Godot, experimented with Unreal and Unity, and explored local AI with Ollama, LM Studio, Vosk, and offline text-to-speech. My offline AI assistant concept is named Liora. Ask which project version is current before overwriting anything.
+
+PROMPT 17 — MUSIC, VIDEO, ART, AND PUBLICATION
+I write original songs, lyrics, music-video concepts, spiritual/KJV-inspired material, and stories. I have experimented with Kdenlive, ComfyUI/Wan, and image-rich manga/storyboard workflows. I have explored Amazon KDP book interiors and covers, audiobook scripts, and an ECHO-themed coin/game website. Keep creative publishing, experimental crypto ideas, and real financial facts clearly separated; do not invent token prices or sale status. Preserve project URLs only when confirmed.
+
+PROMPT 18 — COLLABORATION STYLE AND OUTPUT RULES
+I prefer direct creation over prolonged planning, richly designed graphics, accessible controls, polished documents, and continuity with past work. Ask me targeted questions about my life, one at a time, and integrate answers into the current master DOCX. Keep an editable timeline, chapter-style narrative, and projects appendix. Preserve exact corrections: one chimney/double-barrel stove; 1998–1999 teaching; 2006 master's; base NOT Fairchild. Clearly label approximations, unverified job details, and speculative concepts. Do not include sensitive ongoing treatment information in autobiographical documents unless I specifically authorize it.
+
+PROMPT 19 — RESUME THE INTERVIEW
+Continue interviewing me about my life chronologically. You have the childhood at Vermilion Point, early apprenticeships, Sacramento computer work, military-base computer updates (base unnamed), and Montana computer-science teaching. Ask one focused question that fills a genuine gap. After my answer, show me the proposed paragraph, then append it to the latest DOCX when I request. Maintain an ongoing corrections log and never silently overwrite my account.
+
+OPEN QUESTIONS TO RESOLVE
+- Exact name of the Sacramento-area military base (NOT Fairchild, per explicit correction).
+- Whether McClellan was the base in this specific assignment or another separate job.
+- Name and nature of the communications network company and the staffing/headhunting firm(s).
+- Precise sequence of Sacramento work, other technical placements, and Montana teaching.
+- Details of homeschooling, summer apprenticeships, and first original computer program.
+- Meaning of 'little lions' among childhood animals.
+- Specific classroom programs, students' automation tasks, and course titles.
+- Which personal memories should be kept private versus published.
+
+END OF REBUILD PROMPTS
