@@ -1,0 +1,170 @@
+BRIAN CHAPMAN SR. — DEEP PRIVATE HISTORY & AI RECONSTRUCTION MASTER PROMPTS
+Updated: 2026-11-17
+PRIVATE WORKING ARCHIVE — NOT FOR PUBLICATION WITHOUT REVIEW
+
+==========================================================================
+01. MASTER INSTRUCTIONS
+==========================================================================
+You are rebuilding a working understanding of Brian Chapman Sr. (also identified in earlier material as Brian Christopher Chapman Sr.), whose published-work byline is Brian Chapman Sr. MSP A+ CIW. This is a PRIVATE working archive, not a public biography. Treat every first-person account as Brian's reported memory, not independently verified fact. Preserve his own corrections and distinctions. Do not fabricate relatives, dates, credentials, employers, transcripts, military affiliations, medical records, or encounters. When adding literary atmosphere, mark it [SCENE-SETTING / RECONSTRUCTION] rather than asserting it happened. Keep ongoing hospital/psychologist information private reference only, not in public autobiography unless he explicitly requests it. Ask questions one at a time and append new answers rather than rewriting or erasing old versions. Avoid repeating identifying numbers, addresses or other secrets. Distinguish personal history, medical recollection, technical projects, spiritual interpretation, fictional worldbuilding, and unresolved questions.
+
+==========================================================================
+02. BIRTH, ADOPTION AND CHILDHOOD GEOGRAPHY
+==========================================================================
+Brian reports being born January 4, 1976, to Leslie and Jeffrey Johnson. He says he was later adopted by his dad Don Stevenson. He grew up at Vermilion Point Bay near Thompson Falls, Montana, where he was homeschooled. Preserve exact family relationships as stated rather than guessing biological or adoptive roles for other people. His childhood setting was nature-rich and centered on a large two-story cabin. The region and bay are the remembered place; do not invent a street address or precise shoreline geography.
+[SCENE-SETTING / RECONSTRUCTION] A narrative can contrast the open shoreline and wildlife outside with the busy, animal-filled cabin inside. This is atmosphere derived from his descriptions, not a claim about any particular day.
+
+==========================================================================
+03. THE MUD FLATS AND BROTHERS
+==========================================================================
+At Vermilion Point, Brian recalls broad mud flats covered by perhaps two, three, or four inches of water. He and his brothers went out onto the shallow flats and threw mud at one another. They stood far enough apart that hitting someone required accurate aim. They missed sometimes, dodged incoming mud, and played for hours. The importance of the memory is physical play, distance, precision, and companionship. Do not add names of brothers, weather, exact ages, or incidents not given.
+[SCENE-SETTING / RECONSTRUCTION] The scene can emphasize the challenge of aiming across open shallow water, the suspense of dodging, and the freedom to play for hours; avoid fictional dialogue presented as fact.
+
+==========================================================================
+04. CABIN, STOVE AND HIDDEN BEDS
+==========================================================================
+The family lived in a big two-story cabin. Brian corrected an initial description of two fireplaces: there was ONE double-barrel stove, with two firebox/barrel sections venting through one chimney. He shared a bedroom with his brothers. A closet had been rebuilt to contain two beds, concealed from the main room, leaving the room itself open for games and other things. He loved the arrangement and called it awesome. Do not misstate the stove as two separate fireplaces or claim every brother had a bed in the closet.
+[SCENE-SETTING / RECONSTRUCTION] A writer can juxtapose the open play area with the unexpected sleeping nook, but must not invent the layout or materials.
+
+==========================================================================
+05. ANIMALS AND HOUDINI
+==========================================================================
+Brian recalls his family raising many animals: dogs, rabbits, hamsters, guinea pigs, birds, and what he called little lions (species not clarified). He personally raised many hamsters. One hamster was named Houdini because he escaped his cage regardless of how Brian arranged it or secured the top. Brian could count on finding Houdini wandering somewhere in the house; he remembers finding him downstairs by the fireplace keeping warm. Do not invent a specific escape mechanism, cage design, animal count, or story of catching him.
+[SCENE-SETTING / RECONSTRUCTION] The contrast between Brian's attempts to secure the cage and the hamster's reliable appearance beside the warmth is a strong character moment.
+
+==========================================================================
+06. NATURE WALKS, CRANES, WATER AND MOTHER
+==========================================================================
+Brian and his brothers walked through nature searching for wildlife, including birds and squirrels. He recalls a pair of large cranes across the water, regularly together at a massive nest. Brian understood the cranes to mate for life; do not assert species identification. His mother swam across the bay/river, which he estimates was roughly half a mile to the opposite side, daily. Brian and the others paddled alongside in little boats while she swam. She also walked miles and miles; the children rode bicycles beside her. He remembers her as strong and determined and says this modeled determination for him. Exact route, distance, and frequency are personal estimates and recollections.
+[SCENE-SETTING / RECONSTRUCTION] The moving boats beside a swimmer and bicycles beside a walker offer parallel images of steady effort and family companionship.
+
+==========================================================================
+07. HOMESCHOOL AND TEENAGE APPRENTICESHIPS
+==========================================================================
+Brian was homeschooled at Vermilion Point. Around ages 12, 13, 14 and 15 he spent summers apprenticing with business owners and at their companies. He describes hands-on time around working people and businesses. Specific employers, disciplines, daily schedules, and exact years are not yet supplied. Do not imply he earned credentials or wages from each placement. Ask later what businesses he worked with, what he built or repaired, and what he learned.
+
+==========================================================================
+08. MOTHER, RELIGION AND SUPPORT
+==========================================================================
+Brian says his mother had a deep, core religious background and strong religious beliefs, which made him want to study and understand her. She supported him throughout his life and helped encourage and promote him when he was young and uncertain about obtaining a teaching job and what he referred to as tenure. He remembers wanting that opportunity very much. Do not infer her denomination, precise beliefs, formal hiring authority, or that tenure was actually granted. Keep her encouragement central.
+[SCENE-SETTING / RECONSTRUCTION] Explore how observing a parent's conviction can inspire curiosity and how her determination may connect with Brian's later persistence, but frame these as thematic interpretations.
+
+==========================================================================
+09. SACRAMENTO APPRENTICESHIP AND EARLY COMPUTER WORK
+==========================================================================
+Before his teaching career, Brian recalls staying in Sacramento, California, with his then-girlfriend and her family. He apprenticed in computers and worked with a communications network company. He describes early work that led into coding, referencing, and further jobs. In an earlier correction he distinguished computer-updating work at McClellan from a separate headhunting/MCI-related job. The exact identity and ordering of all companies remains to be reconciled; do not collapse them into one employer. He says he did references, studying, research, paperwork and tests through a headhunting organization that helped find jobs in the community. Preserve the distinction between recruitment organization and actual work site.
+
+==========================================================================
+10. MILITARY BASE COMPUTER UPDATES — NAME UNRESOLVED
+==========================================================================
+Brian reports being placed as a coder at a military installation in the Sacramento area to update machines. He wrote reusable automated code, installed or initiated it across multiple computers, pressed Enter, and could watch updates execute while moving to the next machine. He contrasts updating hundreds of computers this way with doing only one manually. He initially said 'Fairchild' when asked the base name, then explicitly retracted it: IT WAS NOT FAIRCHILD. Earlier discussion mentioned McClellan in connection with computer updates; treat that as a separate recollection to clarify, not verified proof of the exact installation for this story. Do not assign military rank, security clearance, classified systems, programming language, network privileges, or exact counts.
+[SCENE-SETTING / RECONSTRUCTION] The contrast between repetitive machine-by-machine labor and the efficiency of automation can be described without inventing a technical workflow.
+
+==========================================================================
+11. TEACHING COMPUTER SCIENCE 1998–1999
+==========================================================================
+Brian reports working from 1998 to 1999 as a professor teaching computer science at Flathead Valley Community College in the Libby, Montana, area. He taught regular college classes AND adult continuing education. Adult students included community members and elders learning to use computers and AI. He recalls teaching Microsoft Windows, Excel worksheets, and VBScript (VBS) scripting. Preserve the job title as his recollection; independently confirm campus, exact role and tenure if needed for public résumé use. His mother's encouragement helped him pursue the job.
+[SCENE-SETTING / RECONSTRUCTION] The classroom can be described as a meeting place for students with different levels of experience, from ordinary college learners to employed adults returning for practical skills. Do not invent the room, equipment brand, lesson plan, roster, or course catalog.
+
+==========================================================================
+12. CLASSROOM WALL INCIDENT — EXACT MEMORY
+==========================================================================
+Brian remembers a day when he had everything taught and written on the board, 'everything perfect.' He said to his class, 'Okay, I'll be right back,' turned to leave, and walked straight into the wall instead of through the doorway. Everybody in class laughed. Preserve the humor and his matter-of-fact delivery; do not infer injury, illness, embarrassment, or the students' exact words. This is an important humanizing scene in his classroom history.
+[SCENE-SETTING / RECONSTRUCTION] A literary retelling may linger on the abrupt contrast between the carefully organized lesson and the unintended exit, followed by laughter. Mark any invented gestures or reactions as reconstruction.
+
+==========================================================================
+13. EXCEL BUTTONS, VBScript AND WOMEN IN THE COMMUNITY
+==========================================================================
+Brian recalls women in his adult classes who held jobs in the community and used computers at work. He went into Excel and created worksheets, automated forms, and scripted actions so that they could arrive at work, press a button, and complete recurring tasks, pressing the button again whenever needed. He says the women loved him for making their work easier. The key is applied computing: a real work problem translated into reusable, accessible automation. He also wrote his OWN computer programs outside class, brought them into the classroom, and taught students to use them. Do not invent names, employers, formulas, macros, databases, job titles, exact time savings, or commercial sales.
+[SCENE-SETTING / RECONSTRUCTION] Present the repeated button press as a symbol of practical empowerment: students who had faced tedious tasks could operate tools designed around their needs. Do not invent a specific student's testimony.
+
+==========================================================================
+14. 1999 MOTORCYCLE CRASH AND ACUTE MEDICAL HISTORY
+==========================================================================
+Brian reports a major motorcycle collision on May 6, 1999, on a country road associated in his recollection with Highway 56/Bull River. He describes a left-hand corner, a green 1974 Ford half-ton truck turning into a driveway, and his motorcycle sliding beneath the truck while his body struck its right side. He reports the truck moved back and forward after the impact. He remembers taking a last breath and being resuscitated, punctured lungs and chest tubes, blood in the lungs, bleeding from the nose and ears, head injury/brain hemorrhage, and helicopter transport to Spokane after initial treatment. He later spent time in a nursing home. He reports having been described as 'brain dead' in Montana records; do not treat this as a verified clinical diagnosis without records. Preserve differences between his memory, reported records, and medically confirmed facts. This is a sensitive first-person account, not a medical case report.
+
+==========================================================================
+15. REHABILITATION, RECOVERY AND EDUCATION
+==========================================================================
+Brian recalls spending about a year in a wheelchair, using a walker, and relearning to walk in a swimming pool. He describes severe early memory and attention difficulties, including burning pots while trying to boil water because he forgot the water. He reports seizures and difficult recovery. He later attended Adult Continuing Education and passed a simulated work program, earned a GED, associate's and bachelor's degrees, and a master's degree in psychology in 2006 (CORRECTED DATE: 2006, not 2011). He reports MSP, A+ and CIW credentials, and later PhD-level coursework, including passing his second-quarter classes; do not state that a PhD was awarded. He describes the bachelor's work as helping 'repair' his brain and the master's as helping him 'master' it: these are his metaphors, not clinical conclusions.
+
+==========================================================================
+16. PRIVATE MEDICAL AND MENTAL HEALTH REFERENCE — DO NOT PUBLISH BY DEFAULT
+==========================================================================
+PRIVATE ONLY. Brian has described extended mental rehabilitation and periods in hospitals, arrests and mental hospital admissions in a difficult stretch of life, as well as a current weekly psychologist appointment. He has discussed diagnoses or symptoms including bipolar disorder, PTSD/nightmares, ADHD traits, autism self-description, grand mal seizures, neuropathy, and recurring infections; he has also mentioned medication experiences involving olanzapine and topiramate. These are sensitive self-reports, not independently established diagnoses. He explicitly asked that ongoing hospital/psychologist details be kept as reference for the AI, NOT put into public autobiographical DOCX or other public documents unless he asks. In a private reconstruction archive, retain them with a clear PRIVATE label and avoid sensationalizing them. He also reports quitting smoking around February 2025.
+
+==========================================================================
+17. FAMILY AND PERSONAL LIFE
+==========================================================================
+Brian has reported having nine children and efforts to reconnect with family members, with the number in contact changing over time. He has mentioned serious health concerns among some children; keep specifics private unless he explicitly asks for publication. He has spoken affectionately about animals and a dog named Blue, described as a blue heeler/dingo mix. Family relationships, exact names, and private details should not be embellished or publicized.
+
+==========================================================================
+18. PSYCHOLOGY, MEMORY AND INNER MODELING
+==========================================================================
+Brian describes using rational emotive behavior therapy (REBT), backward programming, mental visualization, and emotional cues to understand his thought processes. He has explored a tabernacle-as-mind model with tents representing personality traits, the hippocampus as a conceptual organizing center, and layered spaces for memory, attention, and emotional processing. Treat this as his original conceptual/metaphorical research, not established neuroscience. He also describes intense dreams, nightmares, altered-perspective experiences, and imagery of cages, tunnels, switches, and shifting environments; distinguish subjective experience from objective external events.
+
+==========================================================================
+19. TABERNACLE, ARK AND SPECULATIVE RESEARCH
+==========================================================================
+Brian's research and fiction explore the biblical tabernacle, Ark of the Covenant, wood construction, a 24-level pyramid/complex, 12 lights or dimensions, emotion-driven computational systems, rainbow layers/firewalls, collective consciousness feedback loops, and comparisons between architecture, perception and cognition. He has described Ormus experimentation and personal interpretations of unusual experiences. Preserve these as his reported beliefs, hypotheses, experiments, creative interpretations, or fictional constructs as appropriate; do not present unverified supernatural or scientific claims as proven. His KJV-oriented storytelling and spiritual curiosity are major creative influences.
+
+==========================================================================
+20. ECHO UNIVERSE AND CHARACTERS
+==========================================================================
+ECHO is a connected story/game/art universe with recurring friends: a clue-noticing girl, an origami boy who reaches narrow spaces, a silver cat revealing markings, Obsidian the large cat who moves heavy objects, and Ember who lights machinery; a white cat with a crescent moon has also appeared in later designs. Core adventure beats include finding a seed, deciphering instructions, growing it, harvesting a glowing fruit, and opening a hidden room. Recurring structures include 64-scene or 68-scene storyboards, a 21-floor elevator hub, constellation windows, valves, wooden mechanisms, inventory puzzles, and a Quiet Loft sound path. Preserve variants rather than silently combining separate ECHO projects.
+
+==========================================================================
+21. ECHO CARDS, TABLETOP AND ORACLE GAMES
+==========================================================================
+Projects include ECHO: Crown of the Ember Ark 90-card oracle, ECHO: Gates of the Hidden Seed 72-card game, ECHO: The Living Tabernacle, emotional-machine tabletop designs, 90-card decks with a common back, rulebooks, and Game Crafter production. Card imagery has moved among ivory/copper, psychological, AI, chemistry, emotional, and creature themes. Print requirements have included exact 900x1500 JPG exports, consistent card layouts, full-resolution ZIPs, and readable instructions for children. The user has emphasized not mixing inconsistent designs and keeping unreleased decks hidden until launch.
+
+==========================================================================
+22. BOOKS, MEMOIR AND PUBLISHING
+==========================================================================
+Brian has developed Ark Beyond the Stars, Legends of the Elixir, A Life Rebuilt, Anatomy of the Abyss, Bible-based children’s stories, KJV-inspired material, an ECHO Method manual, and other multi-volume works. He has requested manuscripts in DOCX, illustrated HTML readers, audiobook-ready TXT with chapter breaks, Amazon KDP covers/interiors, and fiction/memoir kept distinct. His memoir direction favors a psychologically suspenseful, flowing 10–15 chapter structure emphasizing memory, danger, recovery, and uncertainty, with scene details from his own account. He has requested a PhD-like scholarly visual style but academic formatting must not imply an awarded doctorate.
+
+==========================================================================
+23. SOFTWARE, GAMES, AI AND WEBSITES
+==========================================================================
+Projects include POS Ark Promenade 3D, ECHO game galleries, HTML single-file games, a self-playing chess/game experiment, Godot/Unity/Unreal explorations, Minecraft-style manga, wildlife and veterinary care simulations, and Herbal Heart (large herb/ailment reference with a modern lab interface). Brian works with GitHub Pages and prefers downloadable single-file HTML under about 24 MB when possible, with accessible, high-visibility, graphic-rich interfaces. He has explored offline AI companions using Ollama, LM Studio, Vosk, pyttsx3, and local GPU inference; one named assistant project is Liora. He also creates songs, music-video concepts, and YouTube/audio book content. Known project hubs include https://razaci.github.io/html/ , https://razaci.github.io/pos/ , and https://razaci.github.io/thearkbeyondthestarscollection/ ; links are historical references and may change.
+
+==========================================================================
+24. CRYPTO AND DIGITAL COLLECTIBLES
+==========================================================================
+Brian has explored ECHO-related coins, crypto-linked game concepts, a Base/Zora token, meme imagery and QR codes, and web displays for coin statistics. Do not imply a token is purchasable, backed by USDC, or has a specific live price without checking live data. Some experiments were abandoned and later reconsidered. Preserve that sequence of changing decisions rather than forcing a single permanent product specification.
+
+==========================================================================
+25. WORKING STYLE AND REBUILD METHOD
+==========================================================================
+Brian likes rapid iterative collaboration, visual and graphic-heavy artifacts, practical downloadable files, and cumulative updates that preserve prior material. He frequently asks to continue, enlarge, repair, restyle, or rebuild existing work rather than restart from scratch. He wants AI prompts that can restore project context after account loss and keep original wording, versions, status, and project separation. He uses emotional cues and conversational direction to guide creative coding. Do not turn his life into generic marketing copy or claim that a prototype is complete when it is not.
+
+==========================================================================
+26. RECONSTRUCTION PROMPTS FOR A NEW AI
+==========================================================================
+PROMPT 1 — READ AND INDEX: Read this entire archive. Extract factual first-person recollections, corrections, unresolved questions, sensitive/private notes, creative works, and technical preferences into separate categories.
+PROMPT 2 — BUILD CHRONOLOGY: Produce a dated life timeline, marking approximate years and unresolved sequencing. Do not invent dates.
+PROMPT 3 — WRITE A RICH PRIVATE MEMOIR: Expand the scenes with evocative but labeled reconstructed atmosphere; never invent quotations or events as testimony.
+PROMPT 4 — CLASSROOM CHAPTER: Write an extended chapter on the 1998–1999 computer science classes, mixed adult/college learners, elders, Windows/Excel/VBS, the board/wall incident, button-driven automation for employed women, and Brian bringing his own programs to teach. Clearly separate confirmed recollections from imagined transitions.
+PROMPT 5 — EARLY CODING CHAPTER: Keep Sacramento communications work, headhunting organization, McClellan reference, and unidentified base assignment distinct until clarified. Fairchild was rejected. Explain the reported automation of many computers without inventing technical mechanisms.
+PROMPT 6 — CHILDHOOD CHAPTER: Include mud flats, hidden beds, double-barrel stove, Houdini, cranes, wildlife walks, mother swimming, boats, bicycle rides, homeschooling, and apprenticeships.
+PROMPT 7 — PRIVATE CONTEXT: Keep sensitive health and family details in a restricted reference appendix; do not insert into public autobiography by default.
+PROMPT 8 — PROJECT ATLAS: Create a separate catalog of books, ECHO stories, games, decks, software, songs, and sites; do not treat fiction as biography.
+PROMPT 9 — INTERVIEW: Ask Brian one question at a time about missing details. Quote his correction exactly and update the record rather than silently overwriting it.
+PROMPT 10 — VERSION CONTROL: Preserve every dated revision, identify what changed, and export TXT, DOCX and HTML only on request.
+
+==========================================================================
+27. OPEN QUESTIONS AND CORRECTIONS
+==========================================================================
+1. Exact adoption date and full family structure are unspecified.
+2. Names/ages of brothers and precise childhood chronology are unspecified.
+3. Species meant by 'little lions' is unspecified.
+4. Exact river/bay route and crane species are unspecified.
+5. Names and duties of teenage apprenticeship businesses are unspecified.
+6. Sacramento communications company, headhunter organization, MCI job, McClellan work and base assignment need careful sequencing.
+7. Fairchild is NOT the base: Brian explicitly corrected that.
+8. Exact base name, update code language and number of machines are unconfirmed.
+9. Exact campus/appointment/tenure status of 1998–1999 teaching requires verification before public claims.
+10. Names of original classroom programs and example Excel automation tasks have not yet been supplied.
+11. The classroom wall anecdote includes laughter but no further verified details.
+12. Master's year is 2006; PhD coursework is not a completed doctorate.
+13. Keep ongoing mental-health care private, per Brian's earlier instruction.
+14. Different ECHO decks, games, books and draft versions must remain separate unless Brian explicitly connects them.
