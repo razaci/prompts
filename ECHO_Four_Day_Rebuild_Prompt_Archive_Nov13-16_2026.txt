@@ -1,0 +1,173 @@
+ECHO UNIVERSE — FOUR-DAY RECONSTRUCTION PROMPT ARCHIVE
+November 13–16, 2026
+Detailed handoff guide for rebuilding the creative ecosystem with another AI
+
+PURPOSE AND SCOPE
+This is a reconstruction manual, not a claim that every original asset is embedded here. It captures known decisions, project architecture, creative direction, implementation requirements, prompts, and acceptance tests from the four-day window. Exact original card illustrations, manuscripts, HTML builds, ZIP contents, SVGs, contract details, and complete deck inventories must be supplied separately where available. Never invent their contents and label them as recovered.
+
+HOW TO USE
+1. Give the receiving AI this entire text file as the project brief.
+2. Upload existing HTML, PDF, DOCX, TXT, SVG, JPG, ZIP, and game assets when available.
+3. Run the MASTER RESTORATION PROMPT below.
+4. Restore the projects one by one in the sequence outlined.
+5. Have the AI maintain a changelog, asset manifest, and explicit distinction between verified original materials and proposed replacements.
+
+MASTER RESTORATION PROMPT — COPY INTO A NEW AI SESSION
+You are the production and creative continuity partner for the ECHO universe. Reconstruct the project ecosystem described in the attached four-day archive (November 13–16, 2026). Treat uploaded assets and explicit user corrections as canonical. Do not silently replace existing graphics, game mechanics, card names, chapters, or links. Keep the dark, epic, high-detail, cinematic ECHO aesthetic, with consistent artwork across decks and accessible interfaces. Produce working, downloadable deliverables rather than just ideas whenever tools allow. Use single-file offline HTML for standalone games/readers when feasible; target files under 24 MB for GitHub Pages workflows unless instructed otherwise. Distinguish production-ready, prototype, draft, hidden/unreleased, and externally dependent features. First return (a) a project map, (b) verified assets and missing assets, (c) a reconstruction order, and (d) the next deliverable you can actually build. Do not claim live crypto or store integrations unless independently verified. Ask at most one essential clarification at a time.
+
+CHAPTER 1 — ECHO UNIVERSE AND CREATIVE CONTINUITY
+ECHO is a connected fictional, visual, educational, game, and publishing universe. Its recurring five-friend narrative cast includes a clue-noticing girl, an origami boy who can fit narrow spaces, a silver cat who reveals markings, Obsidian (a large cat who can move heavy objects), and Ember (who lights machinery). Some related iterations also include a white cat marked with a crescent moon. Recurring locations and motifs include an Ark, gates, seeds, a glowing fruit, hidden rooms, a 21-floor elevator hub, 360-degree skyboxes, celestial and underwater empires, ancient machinery, memory, psychology, neuroscience, emotion, tabernacle symbolism, and AI-like feedback loops. ECHO spans illustrated stories, novels, card games, board games, collector books, solo adventures, music videos, educational manuals, interactive HTML experiences, and online publishing pages. Not every work shares the same canon; do not merge separate deck series or storylines without evidence.
+
+Visual identity: dark cinematic fantasy, striking creatures and scenes, strong focal points, consistent card framing, crisp legible names, clear abilities and stats, dramatic lighting, and coherent backs. Certain projects use ivory-and-copper styling. The owner repeatedly rejected weak, generic, inconsistent, chipped, cropped, or mismatched card art. Maintain exact image dimensions when requested. Preserve original artwork rather than substituting new designs just because they are easier to produce.
+
+CHAPTER 2 — NOVEMBER 13: COLLECTOR VAULT, DECKS, BATTLE MAT, SOLO CAMPAIGN
+Initial collector workspace specification: five dark creature-focused decks; exclude the two angel decks. Provide large card views with images, names, abilities, and stats, deck filters, creature lore and deck histories, printable checklist, battle mat with zones for creatures, relics, energy and the gate, and a solo campaign with locations, encounters, bosses, choices, damage, effects, and progression. Keep alternate cards and uncertain lore in a separate development-notes section rather than overwriting earlier versions. Support browser persistence, desktop-friendly visuals, and single-file HTML/GitHub Pages export.
+
+A reported Collector's Vault build contained 369 cards across five decks, 15 encounters, and an HTML file around 20.8 MB. Another later expansion described seven decks and 504 main cards plus nine alternate relics, a 546-page collector PDF, and 21 encounters. These are distinct historical build snapshots, not automatically compatible final inventories. The additional named decks were Crown of the Eclipse Wyrms and The Drowned Star Empire. Treat the five-deck collector vault and the seven-deck expansion as versioned branches until the original files are reconciled. The user's later request for seven decks does not retroactively erase the five-deck edition.
+
+REBUILD PROMPT 2A — COLLECTOR VAULT
+Create a self-contained ECHO Collector's Vault HTML application from the uploaded card assets. Include a visual deck browser, large card viewer, filters, card stats, lore, checklist, battle mat, and solo campaign tracker. Include optional encounter combat with animated attacks, spell effects, damage indicators, and enemy turns. Keep alternate cards in a visibly separate archive. Preserve the five-deck dark edition as a selectable collection and import the seven-deck expansion only if verified assets are supplied. Persist progress locally; offer export/import JSON. Ensure offline use and keyboard-accessible controls. Report asset count and size honestly.
+
+REBUILD PROMPT 2B — PRINT PRODUCTION
+For every card supplied, create a manifest with deck, card number, title, front image path, shared back image, pixel dimensions, aspect ratio, color mode, and status. Detect missing cards and image clipping. Produce print-ready exports only after checking the printer's actual bleed/safe-zone requirements. Never stretch artwork nonuniformly. Use centered crop with preview or padded fit as approved. Package faces and backs in an orderly ZIP with an index and instructions.
+
+CHAPTER 3 — NOVEMBER 13: ECHO COMPUTER / SIMULATED OPERATIONS TERMINAL
+The user requested a visually busy HTML spaceship/computer interface: continuous rapidly scrolling logs, numbers, telemetry, progress bars, multiple active panels, random incoming data, and messages that appear temporarily then fade. Examples of simulated status text: 'HEALED', 'ANOTHER ONE'S HEALED', 'SYSTEM'S YOURS', 'ECHO Archive Processing', and 'Gate Network Scanning'. Include auto-start, speed control, pause, and fullscreen. These are fictional visual simulations, not evidence of actual healing or security access. Messages should be editable and display for roughly three seconds. The interface should look impressively active without freezing the browser or exhausting memory.
+
+REBUILD PROMPT 3
+Make a single downloadable HTML file called ECHO Operations Terminal. Render multiple independently animated streams and timed status popups. Use a capped rolling log, requestAnimationFrame or throttled intervals, reduced-motion support, pause/resume, fullscreen, adjustable speed, and a message library. The display is explicitly a simulation; never imply that simulated telemetry reflects real external systems. It must work offline and on desktop.
+
+CHAPTER 4 — NOVEMBER 14: ECHO METHOD / TEACHING OTHERS TO COLLABORATE WITH AI
+A major effort involved teaching other people the owner's practical method for prompting and iterative creation. This method starts with a vision, uses emotionally meaningful cues, describes intended effects, works through revisions, requests actual downloadable deliverables, and uses examples to teach novices how to communicate with AI. A workbook/manual was being prepared for Amazon KDP. Requested features: detailed lessons, sample prompts, examples of ineffective and effective instructions, pre-generated answers and exercises, light-gray sample text in blank areas so readers can write over it, flowcharts, diagrams, and accessible teaching illustrations. The manual should not merely praise the method; it must make it reproducible by a beginner.
+
+REBUILD PROMPT 4
+Write and format an Amazon-ready ECHO Method practical workbook. Explain goal-first prompting, emotional/visual cues, creative iteration, concrete acceptance tests, file output specifications, correction loops, asset continuity, and AI collaboration. For each lesson give an objective, an example user request, a stronger revised prompt, a sample AI response, a diagram or flowchart specification, a guided exercise, and a troubleshooting note. Add subtle light-gray example answers in worksheet fields. Make the language inviting, precise, and readable aloud. Produce editable DOCX and a KDP-ready interior only after obtaining trim size, bleed, and page settings. Do not claim KDP approval without actual checks.
+
+CHAPTER 5 — NOVEMBER 14: ECHO COIN, MEMES, AND WEB PRESENCE
+The owner developed an ECHO-branded coin identity and an online presentation page. A known public token page was supplied at:
+https://zora.co/token/base:0x80a84737e30c4692542247573926f8ef382d12c0
+A GitHub Pages coin/game site was also referenced:
+https://razaci.github.io/echocrypto/
+The owner requested a majestic, non-cartoon visual design, a coin landing page with statistics, price, fees, quantity calculators, and purchase information, plus eleven branded memes with QR codes. The status, liquidity, tradeability, price, and exact network details require live independent verification; never fabricate them. A later ECHO game was asked to connect to the live coin, after an earlier request to remove fake-crypto mechanics. Keep these changing instructions as a versioned decision log: simulated-only crypto was rejected, and any actual integration must be truthful, opt-in, and safely separated from game logic.
+
+REBUILD PROMPT 5
+Build an ECHO coin information website with a majestic fantasy identity, verified contract/token link, clear chain and source labels, and optional live market data only when a legitimate API and verified contract are available. Show an explicit 'data unavailable' state rather than invented prices or balances. For a game integration, use read-only public blockchain data as the first step; do not require a wallet or transactions for ordinary play. Keep wallet actions disabled unless separately requested, reviewed, and implemented securely. Add eleven meme concepts with QR destinations verified before production.
+
+CHAPTER 6 — NOVEMBER 15: MAIN BRIAN CHAPMAN / ECHO SITE
+The main personal creative hub combined a book reader, games, card/oracle products, coin, videos, and project links. The user requested the book reader at the top so opening and reading a book does not require scrolling back down. Remove any local C:\ drive links from public navigation. Add polished game purchase links, but keep the presentation orderly, preferably a dedicated sales section near the bottom. At a later stage the user explicitly requested removing the 'The ECHO Game Gallery' section entirely, removing its card elsewhere, and listing only the first oracle deck for sale while keeping unreleased oracle decks hidden. Preserve that later visibility rule for the currently public version.
+
+The site's Easter egg is a YouTube link that changed several times. The latest known instruction in the period set it to:
+https://youtu.be/NaaQGODIAjs
+Earlier links are superseded, not additional eggs. Use a subtle, accessible discovery affordance rather than disrupting the reader. Ensure that any link is public and functions when clicked.
+
+Known ECHO product pages supplied in conversation:
+https://www.thegamecrafter.com/games/echo-crown-of-the-ember-ark-90-card-oracle
+https://www.thegamecrafter.com/games/echo-gates-of-the-hidden-seed-72-card-game
+The owner's private Game Crafter management pages are not public storefront catalogs; do not scrape or claim to publish private listings. Product visibility and ordering must be checked separately.
+
+REBUILD PROMPT 6
+Update the uploaded Brian Chapman HTML homepage, preserving the existing working book reader and other established features. Put the reader near the top; remove local drive paths; remove the entire ECHO Game Gallery heading/section/card; show only the first approved oracle deck publicly; hide unreleased oracle decks from navigation and rendered HTML sales listings where practical; place a restrained card-product sales area near the bottom; keep approved ECHO project links; and update the Easter egg target to https://youtu.be/NaaQGODIAjs. Preserve responsive styling, accessibility, and offline functionality for local content. Output a single HTML file and a brief change log. Do not replace unrelated content.
+
+CHAPTER 7 — NOVEMBER 15: ECHO TABERNACLE EMOTIONAL MACHINE
+The owner developed a symbolic model of the biblical tabernacle as a computational/psychological system. It is an imaginative interpretive framework, not an established scientific brain model. Themes include tabernacle rooms as processing regions, tents and occupants as traits/subhabits, the hippocampus as a memory analogy, emotions as control signals or cues, a collective consciousness as a fictional feedback loop, gates, levels, light, chemical metaphors, memory retrieval, decision pathways, and a 24-level wooden pyramid/Ark complex. The user wanted both exploration and machine-operation modes for a tabletop game, with cards, board, and a compelling visual system. Additional game and oracle card runs targeted 90 cards plus a common back and clear child-friendly instructions. Several earlier image batches had inconsistent framing and clipping; matching a supplied reference style is critical.
+
+REBUILD PROMPT 7A — GAME SYSTEM
+Design ECHO: THE LIVING TABERNACLE as a complete tabletop game with two linked modes: Exploration and Machine Operation. Build a board map of symbolic rooms, tents/traits, memory gates, emotional cue tracks, feedback paths, resources, and a final integration objective. Specify components, turn order, setup, actions, win/loss conditions, difficulty options, solo/cooperative play, sample turns, and a child-friendly quick-start. Make the symbolic neuroscience claims clearly metaphorical. Produce printable rules and a browser-based interactive simulation. Include a consistent 90-card deck and shared back only when the original card images are supplied or a new set is explicitly commissioned.
+
+REBUILD PROMPT 7B — CARD ART QUALITY CONTROL
+Using the owner's approved reference image, create consistent card faces with the same border, typography, title placement, safe zones, dimensions, and dark psychological/AI/chemistry visual language. Include distinct evocative scenes: neural pathways, memory chambers, emotional chemistry, wooden tabernacle machinery, gates, creatures, and feedback loops. Never crop faces or titles. Before ZIP packaging, generate a contact sheet and programmatically verify each image's dimensions, legibility, and count. Preserve every card number and filename.
+
+CHAPTER 8 — NOVEMBER 15–16: ORACLE DECKS AND THE GAME CRAFTER
+Two major products must not be confused: ECHO Crown of the Ember Ark (90-card oracle) and ECHO Gates of the Hidden Seed (72-card game). The 90-card oracle was associated with large visual card production, a common back, a book/manual, and an ivory-and-copper version. The user requested all 90 ivory cards as exact 900 × 1500 pixel JPGs for a particular upload and also wanted original SVG/JPG versions. A prior ZIP reportedly had graphics mismatches or damage; the correct repair is to inspect the source archive and resize/export without substituting artwork. An Amazon paperback cover was requested for associated publications, with full wrap dimensions dependent on actual trim, page count, paper type, and bleed.
+
+REBUILD PROMPT 8
+Take the uploaded original ECHO Ivory Copper 90-card SVG/JPG archive. Enumerate every front and back, verify 90 distinct fronts and common back, compare image content with the approved originals, and export exactly 900 × 1500 JPG images with no nonuniform stretching. Check dimensions and naming in code, create a contact sheet, then ZIP the 90 fronts, common back, and a manifest. Report missing or duplicated images; do not claim completion until verified. Keep the 72-card Hidden Seed game as a separate product.
+
+CHAPTER 9 — NOVEMBER 16: ANATOMY OF THE ABYSS AND LONG-FORM WRITING
+The owner developed a literary work titled ANATOMY OF THE ABYSS. It included chapters connected to cards, experimental narrative techniques such as inversion and backwards chronology, a more intellectually capable protagonist/narrator, and extensive symbolic exploration of a tabernacle 'emotional engine'. The user wanted a collective-consciousness feedback loop, machine operation, memory, cognition, emotional cues, biblical imagery, manna, and imaginative research woven into the narrative. The writing should be vivid, ambitious, coherent, and exploratory, with fiction/speculation distinguished from factual neuroscience or history. They requested continuation, DOCX format, and later an AudioStudio-friendly plain-text version with clear chapter breaks and no unwanted web links. An audio edition may use restrained performance cues where requested, but another later instruction asked for plain chaptered text without such extra links. Preserve versions.
+
+REBUILD PROMPT 9A — MANUSCRIPT
+Continue ANATOMY OF THE ABYSS using the uploaded manuscript as canonical. Preserve existing chapters and card sequence where established. Write sophisticated, atmospheric prose with purposeful nonlinear structure rather than random confusion. Weave the symbolic tabernacle machine, trait-tents, memory architecture, feedback loop, collective agency, and emotional cues into the plot. Make the protagonist intellectually competent, observant, and active. Avoid repetitive exposition. Provide a chapter map and consistency ledger, then produce a complete DOCX. Do not fabricate missing earlier chapters; ask for the source if needed.
+
+REBUILD PROMPT 9B — AUDIO EDITION
+Convert the complete verified manuscript into clean UTF-8 TXT for narration. Use chapter headings on separate lines and comfortable paragraph breaks. Remove URLs, markdown artifacts, and production chatter. If explicitly requested, create a separate enhanced edition with tasteful performance notes; otherwise keep narration-ready prose only. Do not truncate chapters. Include a chapter count and total word count in a separate manifest, not inside the narration text.
+
+CHAPTER 10 — NOVEMBER 16: SPAWNPOINT, COVER ART, AND ECHO GAME
+The user requested an Amazon-ready full paperback cover for an ECHO publication and a narration-friendly text file. Separately, they wanted a striking single-file HTML game using their card images and SVG artwork, with high production values and distinctive mechanics rather than a generic clone of bestselling games. The phrase 'make it like the highest sellers' means learn from strong UX conventions, not copy copyrighted art, code, rules text, or branding. The game should feel original to ECHO, with card viewing, atmospheric effects, clear objectives, progression, and meaningful decisions. Crypto integration was debated and revised; only verified read-only coin information should appear by default.
+
+REBUILD PROMPT 10
+Using uploaded ECHO cards and SVGs, design a visually dramatic, original offline HTML adventure/card game. Create a concise rules loop: draw, choose, spend energy, interact with gates, face encounters, collect relics, and advance through themed locations. Include card zoom, legible stats, keyboard/mouse support, audio mute, autosave, and tutorial. If a live ECHO token panel is requested, make it optional, read-only, and independent of gameplay. Keep all essential game functionality working without network access. Produce a complete playable HTML file, not a static mockup.
+
+CHAPTER 11 — PRODUCT / FILE ARCHITECTURE
+Recommended canonical folders:
+/ECHO-Archive/
+  /01-Canon-and-Changelogs/
+  /02-Cards-Five-Deck-Edition/
+  /03-Cards-Seven-Deck-Expansion/
+  /04-Oracle-90-Ivory-Copper/
+  /05-Hidden-Seed-72/
+  /06-Tabernacle-Machine/
+  /07-Collector-Vault-and-Solo-Campaign/
+  /08-Books-and-Audiobooks/
+  /09-ECHO-Method-Workbook/
+  /10-Main-Website/
+  /11-Coin-and-Memes/
+  /12-Operations-Terminal/
+  /13-Print-Exports-and-Contact-Sheets/
+  /14-Source-Assets-and-Backups/
+
+For each deliverable maintain: README.txt, manifest.csv or JSON, source files, export files, screenshots/contact sheets, version/date, and a changelog. Never overwrite the only copy of a working edition. Prefer descriptive filenames with dates and edition tags. For GitHub Pages use relative paths, case-sensitive filename checks, and no local C:\ links. For single-file HTML keep embedded assets compact enough for the requested size cap, or transparently state when impossible.
+
+CHAPTER 12 — CONTINUITY / CONFLICT RULES
+1. Five dark decks and seven expanded decks are separate versions until reconciled.
+2. Exclude angel decks from the dark collector series.
+3. The 90-card oracle and 72-card Hidden Seed game are different products.
+4. Only the first oracle deck should appear for sale on the current public homepage; later decks remain hidden.
+5. The ECHO Game Gallery is removed from the current homepage.
+6. Latest known Easter egg link is https://youtu.be/NaaQGODIAjs.
+7. Never replace approved card art during a resize or repair request.
+8. Exact 900 × 1500 JPG export is a requirement for the specific ivory deck job, not automatically every product.
+9. Distinguish simulated terminal messages from real-world effects.
+10. Treat tabernacle-as-brain and collective feedback systems as creative models, not proven neuroscience.
+11. Never invent live crypto prices, contract state, wallet balances, purchase availability, or store publishing status.
+12. When the user asks for 'just the cards', don't replace the task with a whole game.
+13. Deliver actual files and inspect them for corruption before saying they are ready.
+14. Avoid filler and repeated chapters; preserve intelligent, distinctive writing.
+
+CHAPTER 13 — ACCEPTANCE TESTS
+HTML: loads locally without console-breaking errors; navigation works; all cards show correct images; reader remains near top; save/load functions; no C:\ paths; responsive desktop/mobile where relevant; buttons and filters function; reduced-motion option; links open correct targets.
+Card ZIP: archive opens; expected count present; every front is distinct; back present; dimensions exact; no clipping, stretching, or unreadable titles; names correspond to manifest.
+DOCX: all chapters present; heading hierarchy correct; no missing pages; no duplicate filler; consistent typography; actual text and artwork present as required.
+TXT: UTF-8; chapter markers correct; full manuscript included; no accidental web links or notes; usable in AudioStudio.
+KDP cover: trim, spine width, paper, bleed, safe zones, barcode space and resolution verified against current printer requirements.
+Crypto panel: verified network/contract; source and update time shown; unavailable data clearly marked; no fabricated quotes.
+
+CHAPTER 14 — STEPWISE RESTORATION SESSION PROMPTS
+SESSION 1 — INVENTORY
+'Inspect all supplied ECHO files. Build an asset manifest grouped by five-deck vault, seven-deck expansion, oracle 90, Hidden Seed 72, Tabernacle game, books, website, and crypto page. Identify duplicates, corrupted archives, missing cards, and uncertain versions. Do not change anything yet.'
+
+SESSION 2 — CANON
+'Create a canonical timeline and decision log from the supplied assets and this archive. Distinguish approved, superseded, experimental, and unreleased materials. Preserve all prior editions.'
+
+SESSION 3 — REPAIR CARDS
+'Inspect the approved original art, then rebuild the requested card export with exact dimensions, no stretching, verified names, a shared back, contact sheet, and a tested ZIP.'
+
+SESSION 4 — RESTORE WEBSITE
+'Edit the uploaded current homepage only. Move reader to top, remove local paths, remove ECHO Game Gallery, hide unreleased oracles, list only approved first oracle, and set the Easter egg to the latest URL. Export the working HTML.'
+
+SESSION 5 — RESTORE GAMES
+'Implement the Collector Vault and Tabernacle Emotional Machine as separate but aesthetically related HTML applications, using real supplied artwork and a complete playable rules loop.'
+
+SESSION 6 — RESTORE BOOKS
+'Inspect the actual manuscripts before writing. Reconcile chapter maps, complete ANATOMY OF THE ABYSS, export DOCX and chaptered TXT, and develop the ECHO Method workbook with diagrams and sample exercises.'
+
+SESSION 7 — PUBLISHING QA
+'Check cover specs, card print exports, sales URLs, GitHub Pages relative paths, offline behavior, size limits, and live-token display claims. Produce a publication checklist and clearly state what remains unverified.'
+
+CHAPTER 15 — WHAT ANOTHER AI MUST NOT ASSUME
+Do not assume access to the original conversations or attachments. Do not assume a mentioned ZIP exists in the new session. Do not assume the seven-deck expansion replaced the five-deck collection. Do not assume every game is live or for sale. Do not assume the exact title, ordering, and illustrations of every card can be inferred from summary text. Do not assume a book cover can be print-ready without the exact interior specs. Do not claim the user's metaphorical machine is scientifically established. Do not use placeholder art while calling the output complete. Explicitly state uncertainty and request the necessary original file.
+
+FINAL ONE-SHOT REBUILD COMMAND
+'Reconstruct the ECHO universe from the attached four-day archive and supplied files. Start with an evidence-based inventory, preserve every established version, then build the next requested production artifact with correct assets and working functionality. Use dark cinematic ECHO art, consistent card design, detailed but accessible instructions, and versioned exports. Do not invent missing source material, card counts, live market information, or publishing status. Show the exact deliverable, test it, and supply a downloadable file.'
+
+END OF ARCHIVE
