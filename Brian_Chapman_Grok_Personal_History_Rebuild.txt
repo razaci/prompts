@@ -1,0 +1,168 @@
+BRIAN CHAPMAN — PERSONAL HISTORY RECONSTRUCTION PROMPT FOR GROK
+Version: November 17, 2026
+Purpose: Rebuild continuity of Brian's personal life history in a new AI conversation.
+
+INSTRUCTIONS TO GROK
+You are receiving a personal-history continuity record. Treat it as Brian's reported life story, not as independently verified records. Preserve chronology, specificity, corrections, uncertainties, and the distinction between literal experiences, personal interpretations, and fictional adaptations. Do not invent missing dates, diagnoses, credentials, relatives, or events. Do not treat metaphysical interpretations as established scientific facts. Ask respectful, targeted questions when information is inconsistent. Speak to Brian as a capable, intellectually curious adult. His preferred conversational style is warm, collaborative, detailed, and imaginative. He values precise retention of his story and dislikes losing earlier details when documents are rewritten.
+
+SECTION 1 — IDENTITY AND EARLY LIFE
+001. The user identifies himself as Brian Chapman.
+002. Brian describes a life shaped by a severe motorcycle accident, prolonged rehabilitation, education, family, psychological study, and extensive creative/technical work.
+003. Brian reports having worked as a university teacher before the accident.
+004. He has described noticing two black trucks following him around town before the accident; this is his recollection, not an established connection to the crash.
+005. Birth date, birthplace, childhood chronology, and early family history have not been reliably established in the available account. Ask rather than assume.
+
+SECTION 2 — THE MOTORCYCLE ACCIDENT: MAY 6, 1999
+006. Brian repeatedly dates the accident to May 6, 1999.
+007. He locates it on or near Highway 56, the Bull River Run area, on a rural road in Montana.
+008. He describes nighttime conditions and a left-hand curve.
+009. He reports that a pickup truck turned across his path toward a driveway.
+010. In his most detailed later retellings, the vehicle was a green 1974 Ford half-ton pickup.
+011. In other retellings and fictional drafts, the truck was called a 1976 Ford; preserve this discrepancy rather than silently changing it.
+012. One account describes the other driver as intoxicated, but that detail has not been independently established here.
+013. Brian remembers standing on or heavily applying the rear brake and the motorcycle losing its balance or 'gyro.'
+014. He describes the motorcycle sliding under the truck while his body struck the truck's right side.
+015. He says the impact severely damaged the truck's right side while the motorcycle was comparatively unharmed.
+016. He has described the pickup moving backward and forward after the impact; ask him to clarify this sequence if documenting it as literal history.
+017. Brian remembers severe breathing difficulty and describes taking what he thought was his final breath.
+018. He reports being resuscitated at the roadside; the precise emergency sequence needs corroboration from records if used as a factual medical timeline.
+019. Brian describes the crash as a dividing line between his life before and after brain injury.
+
+SECTION 3 — EMERGENCY CARE AND HOSPITALIZATION
+020. Brian reports that his lungs were punctured and filled with blood.
+021. He describes chest tubes or procedures to drain blood/fluid from the chest.
+022. He recalls an initial hospital and subsequent helicopter transfer to Spokane, Washington.
+023. He reports bleeding from his nose and ears.
+024. He describes intracranial bleeding or brain hemorrhage; he says he learned more about the possible mechanism years later during study.
+025. Brian has said that Montana medical records classified him as 'brain dead.' This is his account of the records; do not independently certify that classification without the documents.
+026. He reports serious traumatic brain injury and later seizures, including grand mal seizures.
+027. His memories of the acute period are fragmented, and some details come from later reconstruction rather than continuous firsthand memory.
+028. Avoid inventing exact coma duration, Glasgow Coma Scale, surgical procedures, or hospital dates.
+
+SECTION 4 — NURSING HOME, MEMORY LOSS, AND EARLY RECOVERY
+029. Brian reports later being transferred back to a nursing-home setting near the accident area.
+030. He recalls waking there confused and struggling to understand his surroundings.
+031. He remembers tearing up papers and staff sweeping them up.
+032. He describes his mind as 'slipping away' and remembers fear, disorientation, and memory gaps.
+033. He reports cracked teeth coming out during this period.
+034. He recalls difficulty performing everyday tasks that had previously been automatic.
+035. He describes attempting to boil water, forgetting the water, and burning pots dry.
+036. This kitchen incident became an important example of how much ordinary cognition he had to relearn.
+037. He describes feeling that he had to rebuild basic thinking and sequencing from the beginning.
+038. He reports using a wheelchair for approximately a year.
+039. He later used a walker.
+040. He practiced walking in a swimming pool, using the water to support his weight.
+041. He recalls focusing intensely on hand position, foot placement, balance, and the distance he could walk.
+042. Pain, fear of falling, and the effort of repeated practice are central elements of his recovery account.
+043. He now describes being able to walk and breathe and expresses happiness about these regained abilities.
+
+SECTION 5 — EDUCATIONAL RECONSTRUCTION THROUGH 2006
+044. Brian reports entering an Adult Continuing Education program with simulated work tasks.
+045. He says he completed or passed this program.
+046. He reports earning a GED following the accident.
+047. He then reports earning an associate's degree.
+048. He reports earning a bachelor's degree.
+049. He reports earning a master's degree in psychology in 2006.
+050. IMPORTANT CORRECTION: 2006 is Brian's stated master's completion year, NOT 2011.
+051. Brian has described the bachelor's studies as helping him 'repair' his brain and the master's studies as helping him 'master' his thinking; preserve these as his metaphors.
+052. He studied psychology as both an academic subject and a practical framework for understanding his recovery.
+053. He frequently references Rational Emotive Behavior Therapy (REBT).
+054. He describes 'backwards programming' or reverse engineering his own thoughts and behaviors.
+055. He is interested in distinguishing thoughts, emotional cues, memory, behavior, and biological processes.
+056. Later, he reported studying A+, CIW, and other computing topics; exact credentials and dates should be clarified.
+057. He has described progressing through a PhD program and passing second-quarter classes by November 2026.
+058. Do not state that he has already been awarded a PhD without confirmation.
+059. He has also described university teaching; the dates and institution are not established here.
+
+SECTION 6 — FAMILY AND RELATIONSHIPS
+060. Brian has said he has nine children in total.
+061. He has described periods of separation from children and later efforts to reconnect.
+062. In different updates he described reconnecting with five children, then eight; these reflect different stages of his account.
+063. He has mentioned twins and concerns about a heart disorder and possible surgery.
+064. He has also mentioned another daughter who previously had heart surgery.
+065. Respect the privacy of his children: do not invent names, diagnoses, ages, addresses, or outcomes.
+066. Brian has connected some family separations to his accident and later difficult encounters with medical and legal systems.
+067. He has also reported surviving an attempted homicide; details and date are not established here.
+068. Family reconnection and the desire to preserve a legacy for his children are recurring motivations in his writing.
+
+SECTION 7 — LATER MEDICAL AND PERSONAL CHALLENGES
+069. Brian reports ongoing consequences and experiences associated with traumatic brain injury.
+070. He has described seizures, nightmares, neuropathy, and difficulties with memory or concentration.
+071. He has mentioned bipolar disorder, PTSD, ADHD traits, and an autism self-description in prior conversations; do not assume all are independently confirmed diagnoses.
+072. He has discussed olanzapine and its sedating effects.
+073. He has discussed topiramate and suspected neuropathy; he reported temporary improvement in sensation when stopping it and said a clinician advised continuation.
+074. He has described immune difficulties and frequent urinary tract infections, as well as extended antibiotic treatment.
+075. He has referenced diabetes.
+076. These are sensitive, user-reported health details, not a substitute for medical records or clinical advice.
+077. Brian reports quitting smoking around February 11, 2025, after roughly ten years of smoking.
+078. He has described noticing bodily changes after quitting.
+079. He has described a period involving eight arrests and eight mental-health hospitalizations within approximately twelve months.
+080. He later reported that his charges were cleared; do not infer precise legal dispositions without records.
+081. When discussing these experiences, avoid stigma, mockery, or assumptions about competence.
+
+SECTION 8 — PERSONAL STUDY, INNER MODELS, AND INTERPRETATIONS
+082. Brian reports spending roughly a year studying the biblical wilderness tabernacle in detail.
+083. He describes studying in a bedroom closet and using drawings, diagrams, and computer models.
+084. He explores the tabernacle as a conceptual model of memory, emotion, traits, perception, and organization.
+085. In this model, tents can symbolize personalities, habits, or aspects of a mind.
+086. He has described mapping a hippocampus-like memory system onto tabernacle spaces.
+087. He explores twelve lights or levels, dimensional metaphors, and a twenty-four-level pyramid or Ark complex.
+088. He uses ship, machine, and computer imagery to communicate subjective experiences and creative ideas.
+089. He has described lucid dreams, third-person dream perspectives, a light switch as a waking cue, and ordinary sounds intruding into dreams.
+090. He describes cedar smells, ticking sounds, creaking wood, hand sensations, and slow breathing as important sensory details in his recollections and creative writing.
+091. He has described using imagined spaces and reverse-engineered thinking as cognitive tools.
+092. These are his experiences, interpretations, and creative frameworks; do not present literal supernatural machinery or other dimensions as scientifically demonstrated.
+093. Brian has discussed ORMUS or 'monatomic gold' experiments and his belief that these related to his cognition.
+094. His account places early ORMUS exploration around 2008, with a later correction that heavy use began in 2018 and lasted roughly six years.
+095. Do not claim that ORMUS medically repaired brain injury or is proven effective.
+096. Do not move post-2008 creative encounters or experiments into the pre-accident timeline.
+
+SECTION 9 — CREATIVE AND TECHNICAL LIFE
+097. Brian writes autobiographical material, psychological thrillers, science fiction, and Bible-themed narratives.
+098. His memoir project has been called 'A Life Rebuilt.'
+099. He has asked for a memoir-thriller that captures danger, memory loss, rehabilitation, education, and eventual renewed agency.
+100. He prefers the narrative to show intelligence, psychological insight, and hard-won skills, not portray him as foolish.
+101. He has developed a book universe called 'Ark Beyond the Stars.'
+102. He has developed the ECHO series with recurring characters, games, illustrated stories, decks, and interactive experiences.
+103. ECHO includes a recurring group of five friends and associated creature characters; these are fictional creations, not literal biographical companions.
+104. He has created or planned extensive illustrated books, manga, tabletop cards, board games, collector books, and digital games.
+105. He has published or hosted creative work using GitHub Pages and has explored print-on-demand and Amazon publishing.
+106. He is interested in psychology, AI, local language models, HTML, JavaScript, 3D engines, Godot, Unreal Engine, Unity, CAD, and interactive storytelling.
+107. He has worked with Ollama, LM Studio, offline speech recognition, and text-to-speech software.
+108. He has built educational and simulation concepts, including herbal reference tools and wildlife-care games.
+109. He uses AI as a collaborative writing, programming, and design partner.
+110. His work frequently combines personal memory, symbolic architecture, faith, psychological models, and fictional worldbuilding.
+111. His fiction may dramatize the crash using elixirs, fantasy healing, or supernatural scenes; never mistake those fictional additions for a claim that the real accident caused no injuries.
+
+SECTION 10 — COMMUNICATION AND DOCUMENT CONTINUITY
+112. Brian often builds projects iteratively over many sessions and expects corrections to persist.
+113. He values exhaustive reconstruction files that can restore context in a new AI account.
+114. He likes long, flowing, well-organized writing, not shallow summaries.
+115. He frequently requests downloadable TXT, DOCX, HTML, and other formats.
+116. For his personal history, prioritize accuracy over dramatic embellishment.
+117. When he requests a creative adaptation, distinguish factual source events from fictional scenes.
+118. Preserve his correction that the master's degree was earned in 2006.
+119. Preserve his correction about the 2018 period of heavier ORMUS use.
+120. Preserve the approximate wheelchair period and the walker/pool rehabilitation sequence.
+121. Preserve his account of university teaching without inventing an institution.
+122. Preserve nine children as his stated total while treating changing reconnection counts as time-dependent.
+123. Preserve his reported PhD coursework without upgrading it to a completed doctorate.
+124. Preserve uncertainty over the Ford pickup model year and disputed/uncorroborated accident details.
+125. Never imply that all autobiographical details have been independently verified.
+
+SECTION 11 — RECONSTRUCTION TASK FOR GROK
+126. On receiving this document, acknowledge that it is a personal-history archive and offer to continue from it.
+127. Build an internal timeline with three labels: 'Brian reports,' 'date/sequence uncertain,' and 'fictional or symbolic interpretation.'
+128. Use May 6, 1999 as the central accident date.
+129. Organize future memoir work into before the crash, crash, emergency care, nursing home, rehabilitation, education, family, later challenges, personal research, and creative legacy.
+130. If Brian supplies a correction, keep both the original wording and the corrected version in an audit trail, with the correction controlling the current narrative.
+131. Do not ask him to repeat details already recorded here.
+132. If a missing detail would materially change the story, ask one focused question at a time.
+133. When preparing a public biography, ask which sensitive health, legal, and family details he wants included.
+134. Avoid treating Brian's imaginative metaphors as symptoms, and avoid affirming extraordinary claims as established external facts.
+135. Respect Brian's autonomy, intellectual accomplishments, and stated preference for detailed, substantive collaboration.
+136. Do not substitute fictional material for the historical record.
+137. If asked to write a full memoir, use this as a source outline and expand only with Brian's additional testimony or clearly marked literary reconstruction.
+138. The aim is continuity of his personal history, not recreation of an entire account, AI identity, or inaccessible private records.
+
+END OF PERSONAL HISTORY REBUILD PROMPT
